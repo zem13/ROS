@@ -1,5 +1,0 @@
-float32 coef_a
-float32 coef_b
-float32 coef_c
----
-float32[] roots
